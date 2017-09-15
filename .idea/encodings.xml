@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/clientes/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientes/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientes/olvide_mi_clave.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientes/registro_particular.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/clientes/template_footer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientes/template_navbar.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientes/template_sidebar.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neomix/aceptar_solicitudes.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neomix/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neomix/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neomix/modificar_datos.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neomix/nuevo_usuario.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neomix/template_footer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neomix/template_navbar.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neomix/template_sidebar.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neomix/ver_accesos.php" charset="UTF-8" />
+  </component>
+</project>

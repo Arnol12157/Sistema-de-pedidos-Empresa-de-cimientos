@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2aba573-690c-4c37-9787-bfa852620930" name="Default" comment="" />
+    <ignored path="neomixlt.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="neomixlt" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="modificar_datos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clientes/modificar_datos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="92" column="46" selection-start-line="92" selection-start-column="46" selection-end-line="92" selection-end-column="46" />
+              <folding>
+                <marker date="1496812314088" expanded="true" signature="181:271" placeholder="..." />
+                <marker date="1496812314088" expanded="true" signature="506:555" placeholder="SELECT * FRO..clientes..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lcompletar_pedido.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/neomix/Lcompletar_pedido.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44406196">
+              <caret line="335" column="0" selection-start-line="335" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
+              <folding>
+                <marker date="1497023138289" expanded="true" signature="181:271" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="1574:1738" placeholder="UPDATE pedid..." />
+                <marker date="1497023138289" expanded="true" signature="1918:1980" placeholder="SELECT * FRO..detalle_pedido..." />
+                <marker date="1497023138289" expanded="true" signature="2345:2533" placeholder="UPDATE detal..." />
+                <marker date="1497023138289" expanded="true" signature="2816:2917" placeholder="SELECT SUM( ..detalle_pedido..." />
+                <marker date="1497023138289" expanded="true" signature="3030:3096" placeholder="UPDATE pedid..." />
+                <marker date="1497023138289" expanded="true" signature="3139:3189" placeholder="SELECT * FRO..pedidos..." />
+                <marker date="1497023138289" expanded="true" signature="3304:3357" placeholder="SELECT * FRO..clientes..." />
+                <marker date="1497023138289" expanded="true" signature="3667:3717" placeholder="SELECT * FRO..pedidos..." />
+                <marker date="1497023138289" expanded="true" signature="3845:3902" placeholder="SELECT * FRO..detalle_pedido..." />
+                <marker date="1497023138289" expanded="true" signature="4419:6114" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4441:4507" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4529:6114" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4551:6114" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4637:5841" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4647:5832" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4656:4759" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4768:4852" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4768:4853" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4768:4899" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4768:4935" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="4944:5074" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="5083:5213" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="5222:5314" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="5323:5442" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="5451:5578" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="5587:5706" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="5715:5821" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="5893:6114" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="5905:6102" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="5918:6089" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="6458:6509" placeholder="SELECT * FRO..articulos..." />
+                <marker date="1497023138289" expanded="true" signature="7107:7294" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="7578:7628" placeholder="SELECT * FRO..pedidos..." />
+                <marker date="1497023138289" expanded="true" signature="7768:7825" placeholder="SELECT * FRO..detalle_pedido..." />
+                <marker date="1497023138289" expanded="true" signature="8346:10041" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="8368:8434" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="8456:10041" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="8478:10041" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="8564:9768" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="8574:9759" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="8583:8686" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="8695:8862" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="8871:9001" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="9010:9140" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="9149:9241" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="9250:9369" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="9378:9505" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="9514:9633" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="9642:9748" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="9820:10041" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="9832:10029" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="9845:10016" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="10321:10372" placeholder="SELECT * FRO..articulos..." />
+                <marker date="1497023138289" expanded="true" signature="10894:11081" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="11355:11378" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="11355:11474" placeholder="..." />
+                <marker date="1497023138289" expanded="true" signature="11526:11646" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/neomix/completar_solicitud_p.php" />
+        <option value="$PROJECT_DIR$/neomix/Lcompletar_solicitud_p.php" />
+        <option value="$PROJECT_DIR$/neomix/ver_modificaciones_p.php" />
+        <option value="$PROJECT_DIR$/clientes/template_sidebar.php" />
+        <option value="$PROJECT_DIR$/clientes/consultar_pedido.php" />
+        <option value="$PROJECT_DIR$/clientes/ver_pedidoMC.php" />
+        <option value="$PROJECT_DIR$/clientes/ver_pedidoT.php" />
+        <option value="$PROJECT_DIR$/neomix/cancelar_pedido.php" />
+        <option value="$PROJECT_DIR$/neomix/Ldepurar_pedidos.php" />
+        <option value="$PROJECT_DIR$/neomix/reporte_precios_pri.php" />
+        <option value="$PROJECT_DIR$/neomix/pedidos_por_cliente_pri.php" />
+        <option value="$PROJECT_DIR$/neomix/ver_pedidos_por_cliente.php" />
+        <option value="$PROJECT_DIR$/neomix/template_sidebar.php" />
+        <option value="$PROJECT_DIR$/neomix/index.php" />
+        <option value="$PROJECT_DIR$/neomix/articulos_modificacion.php" />
+        <option value="$PROJECT_DIR$/neomix/Lprecios_alta.php" />
+        <option value="$PROJECT_DIR$/neomix/alta_precios.php" />
+        <option value="$PROJECT_DIR$/clientes/Lentregar.php" />
+        <option value="$PROJECT_DIR$/neomix/excel_pedidos_por_cliente.php" />
+        <option value="$PROJECT_DIR$/neomix/pdf_pedidos_por_cliente.php" />
+        <option value="$PROJECT_DIR$/neomix/pedidos_por_cliente.php" />
+        <option value="$PROJECT_DIR$/neomix/Lcompletar_modificacion_p.php" />
+        <option value="$PROJECT_DIR$/neomix/modificacion_precios.php" />
+        <option value="$PROJECT_DIR$/neomix/reporte_precios.php" />
+        <option value="$PROJECT_DIR$/neomix/pdf_reporte_precios.php" />
+        <option value="$PROJECT_DIR$/neomix/excel_reporte_precios.php" />
+        <option value="$PROJECT_DIR$/neomix/completar_pedido.php" />
+        <option value="$PROJECT_DIR$/neomix/ver_pedidos_aceptados.php" />
+        <option value="$PROJECT_DIR$/neomix/pedidos_fecha_comprometida.php" />
+        <option value="$PROJECT_DIR$/neomix/pdf_pedidos_fecha_comprometida.php" />
+        <option value="$PROJECT_DIR$/neomix/excel_pedidos_fecha_comprometida.php" />
+        <option value="$PROJECT_DIR$/neomix/ver_categoria_modificacion.php" />
+        <option value="$PROJECT_DIR$/neomix/ver_distribuidor_modificacion.php" />
+        <option value="$PROJECT_DIR$/neomix/modificar_p.php" />
+        <option value="$PROJECT_DIR$/clientes/realizar_pedido.php" />
+        <option value="$PROJECT_DIR$/clientes/entregar.php" />
+        <option value="$PROJECT_DIR$/clientes/ver_pedidoPR.php" />
+        <option value="$PROJECT_DIR$/clientes/ver_pedidoA.php" />
+        <option value="$PROJECT_DIR$/neomix/ver_articulo_modificacion.php" />
+        <option value="$PROJECT_DIR$/neomix/modificar_datos.php" />
+        <option value="$PROJECT_DIR$/clientes/ingresar.php" />
+        <option value="$PROJECT_DIR$/neomix/ingresar.php" />
+        <option value="$PROJECT_DIR$/neomix/Lmodificar_p.php" />
+        <option value="$PROJECT_DIR$/neomix/Lcategoria_clientes_modificacion.php" />
+        <option value="$PROJECT_DIR$/neomix/Ldistribuidor_modificacion.php" />
+        <option value="$PROJECT_DIR$/neomix/Larticulo_modificacion.php" />
+        <option value="$PROJECT_DIR$/neomix/Lmodificar_datos.php" />
+        <option value="$PROJECT_DIR$/clientes/modificar_datos.php" />
+        <option value="$PROJECT_DIR$/neomix/Lcompletar_pedido.php" />
+        <option value="$PROJECT_DIR$/subir.php" />
+        <option value="$PROJECT_DIR$/guardar.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neomixlt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../boca" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/xampp/htdocs/neomixlt/clientes/Lentregar.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\neomixlt\clientes" />
+      <recent name="C:\xampp\htdocs\neomixlt\neomix" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2aba573-690c-4c37-9787-bfa852620930" name="Default" comment="" />
+      <created>1484282269742</created>
+      <option name="number" value="Default" />
+      <updated>1484282269742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19033675" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/neomix/pdf_pedidos_pendientes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49741825">
+          <caret line="17" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/excel_pedidos_pendientes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23407917">
+          <caret line="8" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/ver_pedidos_por_cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29259896">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/template_sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10499139">
+          <caret line="78" column="44" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58003443">
+          <caret line="91" column="59" selection-start-line="91" selection-start-column="59" selection-end-line="91" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientes/registro_empresa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientes/Lregistro_particular.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26333907">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/articulos_modificacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38554215">
+          <caret line="83" column="54" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/alta_precios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8537005">
+          <caret line="116" column="56" selection-start-line="116" selection-start-column="56" selection-end-line="116" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/Lprecios_alta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22547331">
+          <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/pdf_clientes_por_estado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4870912">
+          <caret line="50" column="5" selection-start-line="41" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/pedidos_por_cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.151463">
+          <caret line="115" column="64" selection-start-line="115" selection-start-column="64" selection-end-line="115" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/pedidos_por_cliente_pri.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43201378">
+          <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/pdf_pedidos_por_cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5628227">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/excel_pedidos_por_cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70740104">
+          <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/Lcompletar_modificacion_p.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.576923">
+          <caret line="265" column="25" selection-start-line="265" selection-start-column="25" selection-end-line="265" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/modificacion_precios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48192772">
+          <caret line="82" column="86" selection-start-line="79" selection-start-column="32" selection-end-line="82" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/excel_reporte_precios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23924269">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/pdf_reporte_precios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1222031">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/reporte_precios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22719449">
+          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/ver_modificaciones_p.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29948366">
+          <caret line="199" column="106" selection-start-line="199" selection-start-column="106" selection-end-line="199" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientes/Lentregar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2685026">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/ver_pedidos_aceptados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35628226">
+          <caret line="182" column="36" selection-start-line="182" selection-start-column="36" selection-end-line="182" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/pedidos_fecha_comprometida.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35628226">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/pdf_pedidos_fecha_comprometida.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5903614">
+          <caret line="95" column="44" selection-start-line="95" selection-start-column="44" selection-end-line="95" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/excel_pedidos_fecha_comprometida.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8123924">
+          <caret line="98" column="48" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/ver_accesos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0533562">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientes/entregar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41135973">
+          <caret line="243" column="49" selection-start-line="243" selection-start-column="49" selection-end-line="243" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientes/realizar_pedido.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20654045">
+          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientes/ver_pedidoA.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15490533">
+          <caret line="119" column="34" selection-start-line="119" selection-start-column="34" selection-end-line="119" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientes/ver_pedidoPR.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24096386">
+          <caret line="126" column="33" selection-start-line="126" selection-start-column="33" selection-end-line="126" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientes/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7435456">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientes/ingresar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20481928">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/modificar_p.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.961538">
+          <caret line="88" column="56" selection-start-line="88" selection-start-column="56" selection-end-line="88" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/ver_categoria_modificacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9655766">
+          <caret line="82" column="75" selection-start-line="82" selection-start-column="75" selection-end-line="82" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/Lmodificar_p.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/ver_distribuidor_modificacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.653847">
+          <caret line="89" column="90" selection-start-line="89" selection-start-column="90" selection-end-line="89" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/Lcategoria_clientes_modificacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/ver_articulo_modificacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1480206">
+          <caret line="91" column="123" selection-start-line="91" selection-start-column="123" selection-end-line="91" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/Ldistribuidor_modificacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/modificar_datos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82788295">
+          <caret line="87" column="147" selection-start-line="87" selection-start-column="147" selection-end-line="87" selection-end-column="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/Larticulo_modificacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/Lmodificar_datos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/aceptar_pedidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3562822">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/completar_pedido.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.0258174">
+          <caret line="192" column="49" selection-start-line="192" selection-start-column="49" selection-end-line="192" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientes/modificar_datos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="46" selection-start-line="92" selection-start-column="46" selection-end-line="92" selection-end-column="46" />
+          <folding>
+            <marker date="1496812314088" expanded="true" signature="181:271" placeholder="..." />
+            <marker date="1496812314088" expanded="true" signature="506:555" placeholder="SELECT * FRO..clientes..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/Conexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/ingresar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26333907">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neomix/Lcompletar_pedido.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44406196">
+          <caret line="335" column="0" selection-start-line="335" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
+          <folding>
+            <marker date="1497023138289" expanded="true" signature="181:271" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="1574:1738" placeholder="UPDATE pedid..." />
+            <marker date="1497023138289" expanded="true" signature="1918:1980" placeholder="SELECT * FRO..detalle_pedido..." />
+            <marker date="1497023138289" expanded="true" signature="2345:2533" placeholder="UPDATE detal..." />
+            <marker date="1497023138289" expanded="true" signature="2816:2917" placeholder="SELECT SUM( ..detalle_pedido..." />
+            <marker date="1497023138289" expanded="true" signature="3030:3096" placeholder="UPDATE pedid..." />
+            <marker date="1497023138289" expanded="true" signature="3139:3189" placeholder="SELECT * FRO..pedidos..." />
+            <marker date="1497023138289" expanded="true" signature="3304:3357" placeholder="SELECT * FRO..clientes..." />
+            <marker date="1497023138289" expanded="true" signature="3667:3717" placeholder="SELECT * FRO..pedidos..." />
+            <marker date="1497023138289" expanded="true" signature="3845:3902" placeholder="SELECT * FRO..detalle_pedido..." />
+            <marker date="1497023138289" expanded="true" signature="4419:6114" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4441:4507" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4529:6114" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4551:6114" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4637:5841" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4647:5832" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4656:4759" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4768:4852" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4768:4853" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4768:4899" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4768:4935" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="4944:5074" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="5083:5213" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="5222:5314" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="5323:5442" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="5451:5578" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="5587:5706" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="5715:5821" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="5893:6114" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="5905:6102" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="5918:6089" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="6458:6509" placeholder="SELECT * FRO..articulos..." />
+            <marker date="1497023138289" expanded="true" signature="7107:7294" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="7578:7628" placeholder="SELECT * FRO..pedidos..." />
+            <marker date="1497023138289" expanded="true" signature="7768:7825" placeholder="SELECT * FRO..detalle_pedido..." />
+            <marker date="1497023138289" expanded="true" signature="8346:10041" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="8368:8434" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="8456:10041" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="8478:10041" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="8564:9768" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="8574:9759" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="8583:8686" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="8695:8862" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="8871:9001" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="9010:9140" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="9149:9241" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="9250:9369" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="9378:9505" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="9514:9633" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="9642:9748" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="9820:10041" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="9832:10029" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="9845:10016" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="10321:10372" placeholder="SELECT * FRO..articulos..." />
+            <marker date="1497023138289" expanded="true" signature="10894:11081" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="11355:11378" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="11355:11474" placeholder="..." />
+            <marker date="1497023138289" expanded="true" signature="11526:11646" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
